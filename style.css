@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+  }
+  
+  /*HEADER */
+  header {
+    height: 25vh;
+    background-color: #4b93bf;
+    /* padding: 2rem; */
+  }
+  
+  /*DIV DA HEADER*/
+  .boxHeader {
+    width: 30%;
+    display: inline-block;
+    margin-left: 3rem;
+  }
+  
+  /*NAVEGAÇÃO DA HEADER*/
+  header nav {
+    width: 50%;
+    display: inline-block;
+    margin-left: 5rem;
+  }
+  
+  /*IMAGEM DA HEADER*/
+  
+  .flocos {
+    width: 20%;
+    display: inline-block;
+  }
+  
+  /*TÍTULO DA HEADER*/
+  .titleHeader {
+    display: block;
+    margin-left: 3rem;
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: #e4eef1;
+  }
+  
+  header li {
+    display: inline-block;
+    color: #e4eef1;
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-left: 2rem;
+  }
+  
+  /*MAIN*/
+  
+  /*PRIMEIRA SEÇÃO*/
+  
+  .firstContent {
+    background-color: #e4eef1;
+    height: 750px;
+  }
+  
+  .firstParagraph {
+    width: 40%;
+    margin-left: 8rem;
+    color: #0f468c;
+    display: inline-block;
+    font-size: 1.5rem;
+  }
+  
+  .tree {
+    margin-top: 5rem;
+    margin-left: 12rem;
+    width: 30%;
+    display: inline-block;
+  }
+  
+  /*SEGUNDA SEÇÃO*/
+  
+  .secondContent {
+    background-color: #4b93bf;
+  }
+  
+  .snowman {
+    width: 20%;
+    display: inline-block;
+    margin-top: 3rem;
+    margin-left: 5rem;
+  }
+  
+  h3 {
+    width: 60%;
+    display: inline-block;
+    color: #e4eef1;
+    margin-left: 2rem;
+    font-size: 4rem;
+    margin-bottom: 8rem;
+  }
+  
+  /*TERCEIRA SEÇÃO*/
+  
+  .bears img {
+    width: 20%;
+    margin: 2vw;
+    display: inline-block;
+  }
+  
+  /*FOOTER*/
+  
+  footer {
+    width: 100%;
+    height: 15vw;
+    background: #4b93bf;
+  }
+  
+  footer li {
+    display: inline-block;
+  }
+  
+  ul footer {
+    margin-top: 6rem;
+  }
+  .social {
+    height: 6vw;
+  }
+  
+  .items {
+    height: 15vw;
+    margin: 0 2vw 0 2vw;
+    display: inline-block;
+    vertical-align: top; /* Não conta pra kaka que eu usei isso pra ela não me bater :3 */
+  }
+  .socials {
+    width: 20%;
+  }
+  
+  .footParagraphs {
+    width: 50%;
+  }
+  
+  .footParagraphs p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+ .pingu {
+    margin-left: 10vw;
+}
